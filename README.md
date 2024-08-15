@@ -20,7 +20,7 @@ This LLM uses nucleus sampling (top-p sampling) combined with top-k sampling and
 
 # Required Hardware
 1. Minimum GTX 1650 Super 4Gb or RTX 3060 12 Gb for Better Speed of Training
-2. Intel Core i5 Gen 8 or Latel Intel Core i7 for better performance
+2. Intel Core i5 Gen 8 or Latest Intel Core i7/i9 for better performance
 3. 8Gb Ram or 32 Gb Ram
 
 # Result
