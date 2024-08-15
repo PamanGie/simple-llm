@@ -24,4 +24,4 @@ This LLM uses nucleus sampling (top-p sampling) combined with top-k sampling and
 3. 8Gb Ram or 32 Gb Ram
 
 # Result
-![Alt text](relative/path/to/your/image.png)
+![Alt text](https://raw.githubusercontent.com/PamanGie/simple-llm/main/llm.PNG)
