@@ -13,8 +13,8 @@ This LLM uses nucleus sampling (top-p sampling) combined with top-k sampling and
 6. after training is done, a new folder "trained_model" will appear with your token
 7. next, you can run ``python generate.py`` and ask anything that related on your dataset
 
-# Required Library
-1. Anaconda
+# Required Environment and Library
+1. Anaconda 
 2. transformers ``pip install transformers``
 3. torch ``pip install torch``
 
