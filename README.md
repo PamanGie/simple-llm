@@ -9,7 +9,7 @@ This LLM uses nucleus sampling (top-p sampling) combined with top-k sampling and
 2. Open main.py and change your dataset.txt file
 3. run ``python main.py`` and wait until the training done
 4. The duration of training is depends on capability of your GPU card
-5. You can play the parameters to find best result of your LLM
+5. You can set your own training parameters to find best result of your LLM
 6. after training is done, a new folder "trained_model" will appear with your token
 7. next, you can run ``python generate.py`` and ask anything that related on your dataset
 
