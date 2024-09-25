@@ -17,6 +17,7 @@ This LLM uses nucleus sampling (top-p sampling) combined with top-k sampling and
 1. Anaconda 
 2. transformers ``pip install transformers``
 3. torch ``pip install torch``
+4. pip install accelerate -U
 
 # Required Hardware
 1. Minimum GTX 1650 Super 4Gb or RTX 3060 12 Gb for Better Speed of Training
